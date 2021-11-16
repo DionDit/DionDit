@@ -1,7 +1,6 @@
 ## I'm DionDi, a .NET Developer⚒
 -  💻 My current focus is C#
 -  🚬 At the moment, I'm going deeper into c#
--  🎯 I want to work with other developers
 
 ### Languages & Tools:
 <img style="margin-right: 5px" align="left" alt="C#" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" />
